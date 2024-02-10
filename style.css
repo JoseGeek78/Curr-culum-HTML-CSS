@@ -6,7 +6,7 @@
 	box-sizing: border-box;
 }
 :root {
-	--primary-color: #ff7613;
+	--primary-color: #133eff;
 	--text-color: #727171;
 }
 html {
@@ -14,7 +14,7 @@ html {
 }
 body {
 	font-family: Inter, sans-serif;
-	background-color: black;
+	background-color: rgb(18, 15, 15);
 	color: white;
 }
 
@@ -62,7 +62,7 @@ a {
 	margin: 0 auto;
 	display: grid;
 	padding: 5rem;
-	background: #070707;
+	background: #181515;
 	grid-template-columns: 1fr 1fr;
 	gap: 4rem;
 }
