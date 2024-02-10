@@ -5,3 +5,10 @@
 	margin: 0;
 	box-sizing: border-box;
 }
+
+.profile-profileImg {
+    width: 150px;
+    height: 150px; 
+    border-radius: 50%; 
+  }
+  
